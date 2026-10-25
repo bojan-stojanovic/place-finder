@@ -2,10 +2,6 @@
 
 A map-based finder for hair salons, nail salons, and fast food restaurants. Pick a category, search a city or use your location, and see places ranked by a weighted rating that accounts for how many reviews each place has.
 
-**Live demo:** [https://place-finder.vercel.app](https://place-finder.vercel.app)
-
-![SalonFinder screenshot](docs/screenshot.png)
-
 ## Features
 
 - **Category filter** for hair salons, nail salons, and fast food
